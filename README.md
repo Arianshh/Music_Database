@@ -1,1 +1,1 @@
-# Music_Database
+# Designing a Music Streaming System's Database as Our DB Course Project.
